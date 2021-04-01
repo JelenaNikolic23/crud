@@ -1,0 +1,46 @@
+.modal {
+    font-size: 12px;
+}
+.close {
+    cursor: pointer;
+    position: absolute;
+    display: block;
+    padding: 2px 5px;
+    line-height: 20px;
+    right: -10px;
+    top: -10px;
+    font-size: 24px;
+    background: #ffffff;
+    border-radius: 18px;
+    border: 1px solid #cfcece;
+}
+.header {
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    text-align: center;
+    padding: 5px;
+}
+.content {
+    width: 100%;
+    padding: 10px 5px;
+    text-align: center;
+}
+.actions {
+    width: 100%;
+    padding: 10px 5px;
+    margin: auto;
+    text-align: center;
+}
+.button1 {
+    position: absolute;
+    cursor: pointer;
+    left: 100px;
+    top: 35px;
+}
+.button2{
+    position: absolute;
+    cursor: pointer;
+    right: 100px;
+    top: 35px;
+}

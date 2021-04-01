@@ -1,0 +1,27 @@
+table {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+thead {
+    background-color: #D9B386;
+    color: white;
+}
+
+th,td {
+    padding: 1em;
+    border-bottom: 2px solid whitesmoke;
+}
+button{
+    border: 0px;
+    background: bisque;
+}
+img {
+    width: 30px;
+    padding: 1em;
+}
+
+tbody {
+    background: bisque;
+}
